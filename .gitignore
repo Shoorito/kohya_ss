@@ -52,6 +52,15 @@ dataset/**
 models
 data
 config.toml
-sd-scripts
 venv
 venv*
+.gradio/certificate.pem
+.idea/.gitignore
+.idea/.name
+.idea/kohya_ss.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+config_files/meta_cap.json
+config_files/meta_lat.json
