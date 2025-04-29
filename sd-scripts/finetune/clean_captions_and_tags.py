@@ -14,7 +14,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 PATTERN_HAIR_LENGTH = re.compile(r', (long|short|medium) hair, ')
-PATTERN_HAIR_CUT = re.compile(r', (bob|hime) cut, ')
+PATTERN_HAIR_CUT = re.compile(r', (bob|him) cut, ')
 PATTERN_HAIR = re.compile(r', ([\w\-]+) hair, ')
 PATTERN_WORD = re.compile(r', ([\w\-]+|hair ornament), ')
 
